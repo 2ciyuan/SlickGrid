@@ -1,0 +1,21 @@
+{
+  "name": "SlickGrid-matongxue",
+  "homepage": "https://github.com/2ciyuan/SlickGrid",
+  "authors": [
+    "lsaturn <lsaturn@gmail.com>"
+  ],
+  "description": "A lightning fast JavaScript grid/spreadsheet",
+  "main": "slick.core.js",
+  "moduleType": [],
+  "keywords": [
+    "SlickGrid"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
